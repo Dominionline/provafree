@@ -1,0 +1,13 @@
+{
+  "name": "telegram-promo-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for managing promo invites",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.57.0",
+    "sqlite3": "^5.0.2"
+  }
+}
